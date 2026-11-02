@@ -766,6 +766,16 @@ footer {
 
 
 ## OUTPUT
+<img width="1917" height="915" alt="Screenshot 2026-11-03 000511" src="https://github.com/user-attachments/assets/b2849d83-d5f1-4bdc-a629-12056482bc24" />
+<img width="1911" height="916" alt="Screenshot 2026-11-03 000525" src="https://github.com/user-attachments/assets/a1ca3bdb-0b9d-40bb-8906-06b3fcaf64f1" />
+<img width="1917" height="908" alt="Screenshot 2026-11-03 000538" src="https://github.com/user-attachments/assets/e342f6ef-c57e-40f2-b5bf-7fe6767c4e05" />
+<img width="1907" height="917" alt="Screenshot 2026-11-03 000552" src="https://github.com/user-attachments/assets/68118d06-cd36-4237-b7f4-b9a563214025" />
+<img width="1917" height="903" alt="Screenshot 2026-11-03 000605" src="https://github.com/user-attachments/assets/9f293dcf-4573-4161-8c56-dd69afcf66aa" />
+
+
+
+
+
 
 
 ## RESULT
